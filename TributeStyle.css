@@ -1,0 +1,44 @@
+body{
+    background-color: bisque;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#image{
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#main-topic{
+    background-color: rgb(153, 153, 121);
+    padding: 10px;
+    text-align: center;
+    border-radius: 30px;
+    font-family: 'Gloock', serif;
+    font-size: 45px;
+}
+
+#img-caption{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#tribute-info{
+    width: 80%;
+    margin: 0 auto;
+}
+
+#tribute-info >h2{
+    text-align: center;
+}
+
+#tribute-info >ul>li{
+    margin-bottom: 20px ;
+}
+
+#link{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
